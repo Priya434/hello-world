@@ -1,2 +1,2 @@
 # hello-world
-webpage for priyanshu.cc
+personal webpage
